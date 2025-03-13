@@ -1,0 +1,11 @@
+define word classes and score
+
+length = {'below_20':0,
+'above_20':1}
+
+pro = ['epic', 'terrific', '!', 'yes', 'go', 'beat', 'crush', 'smash', 'worth', 'money', 'good', 'legend', 'ready', 'netflix', 'fighting', 'young', 'great', 'back', 'iron', 'better', 'lose', 'knock', 'knockout' ]
+
+con = ['bad', 'sad', 'terrible', 'fuck', 'clout', 'joke', 'play', 'dissapointed', 'stunt', 'down', 'hate', 'need', 'mock', 'old', 'hustle', 'fake', 'staged', 'shit']
+
+neutral = ['match', 'boxing', 'fight', 'even', 'same', 'equal', 'ring', 'show', 'exhibition']
+
